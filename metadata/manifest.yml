@@ -92,11 +92,11 @@ Endpoints:
 
 Install-Build-Required: false
 #Source-Url: file:///root/cperlv2cart//root/test/cperlv2cart
-Source-Url: file:///home/test/dyphp/
-Source-Md5: d916798a7e218f12b476bf1dee645f9d
+#Source-Url: file:///home/test/dyphp/
+#Source-Md5: d916798a7e218f12b476bf1dee645f9d
 #Source-Url: https://github.com/duyanyan/dyphp/raw/master/dyphp1.tar.gz
 #Source-Url: https://github.com/duyanyan/dyphp/raw/master/dyphp.zip
-#Source-Url: https://github.com/duyanyan/dyphp.git
+Source-Url: https://github.com/duyanyan/dyphp.git
 ##Source-Url: https://github.com/duyanyan/nodyphp.git
 #Source-Url: git://github.com/duyanyan/dyphp.git
 ##
